@@ -1,0 +1,27 @@
+#header {
+    background-color:#89ADB4;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    padding-inline: 20;
+}
+h3 {
+    font-size: 20px;
+}
+
+body {
+    background-color: #AEC9D1;
+}
+
+
+
+.html-img {
+    height: 500px;
+    width: 700px;
+    position: relative;
+    top: 100px;
+    left: 1080;
+}
+
+.table {
+    border: white;
+}
